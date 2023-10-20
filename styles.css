@@ -4,9 +4,10 @@
 }
 
 #octocat {
-  display: block;
+  display: flex;
   width:384px;
   margin: 50px auto;
+  
 }
 
 p {
